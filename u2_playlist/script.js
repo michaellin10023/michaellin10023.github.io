@@ -1,4 +1,4 @@
-/// <reference path="C:\Users\micha\typings\index.d.ts" />
+/// <reference path="..\typings\index.d.ts" />
 
 $(document).ready(function(){
 
